@@ -1,2 +1,0 @@
-# GameParadise
-GameLauncher
